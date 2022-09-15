@@ -62,7 +62,7 @@ export function Post({ author, publishedAt, content }) {
                 />
 
                 <footer>
-                <button type="submite">Publicar</button>
+                <button type="submite">Publicr</button>
                 </footer>
             </form>
 
